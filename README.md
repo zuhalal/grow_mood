@@ -5,7 +5,7 @@
 - Sabyna Maharani
 - Zuhal 'Alimul Hadi
 
-#### For THe Latest Commit, please use Master for grow_mood Repository and Main for grow_mood_be repository
+#### For The Latest Commit, please use Master for grow_mood Repository and Main for grow_mood_be repository
 
 [FE Repository](https://github.com/sabynn/grow_mood)
 [BE Repository](https://github.com/zuhalal/grow_mood_be)
