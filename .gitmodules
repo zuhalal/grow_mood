@@ -1,0 +1,6 @@
+[submodule "grow_mood_be"]
+	path = grow_mood_be
+	url = https://github.com/zuhalal/grow_mood_be
+[submodule "grow_mood"]
+	path = grow_mood
+	url = https://github.com/sabynn/grow_mood
